@@ -1,5 +1,9 @@
 # OpenAPS
 
+
+Adapted from https://openaps.readthedocs.io/en/latest/docs/Understanding%20OpenAPS-Overview/how-openaps-works-overview.html
+
+
 Safety
 
 Limit MAX bolus on pump
